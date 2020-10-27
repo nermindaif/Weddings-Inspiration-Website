@@ -1,0 +1,86 @@
+{
+"categories":[
+	{"reference":"/en/services?category=1",
+    "tag":"Venues",
+	"src": "https://weds360-production.s3.eu-west-1.amazonaws.com/store/category/2/icon/big-fe0ddae57072146294f233a81106c799.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3XIBZMGBAF2YAFWK%2F20201022%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20201022T223334Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=70f4812f3f625ece9b18aac189b8d5091694742bacd60a65a29f30f13f695235"	
+	},
+	{"reference":"/en/services?category=2",
+    "tag":"Designers",
+	"src": "https://weds360-production.s3.eu-west-1.amazonaws.com/store/category/17/icon/big-3936bdb01e3af71e49446f42fdc295ad.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3XIBZMGBAF2YAFWK%2F20201022%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20201022T223334Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=5ad5c1208f7061b79621c9b44d3f4c4936898188e9c7802de34bb8531ed09141"	
+	},
+    {"reference":"/en/services?category=3",
+    "tag":"Bridal Boutique",
+	"src": "https://weds360-production.s3.eu-west-1.amazonaws.com/store/category/36/icon/big-fc756d930d52893f3482db32f95afb54.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3XIBZMGBAF2YAFWK%2F20201022%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20201022T223334Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=bf614ac04687d212e2b3f27dc022d494c2295f981c088b643ebbbc66ea59b96d"	
+	},
+    {"reference":"/en/services?category=4",
+    "tag":"Outdoor Wedding Venues",
+	"src": "https://weds360-production.s3.eu-west-1.amazonaws.com/store/category/2/icon/big-fe0ddae57072146294f233a81106c799.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3XIBZMGBAF2YAFWK%2F20201022%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20201022T223334Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=70f4812f3f625ece9b18aac189b8d5091694742bacd60a65a29f30f13f695235"	
+	},
+    {"reference":"/en/services?category=5",
+    "tag":"Wedding Dresses",
+	"src": "https://weds360-production.s3.eu-west-1.amazonaws.com/store/category/1/icon/big-dfa07f0c8d6b47d05bc4b276c9d1f80d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3XIBZMGBAF2YAFWK%2F20201023%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20201023T081433Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=d915158090612edbceafb33a84f452dc1f5741354c9939d1ddf352b5871ec3e2"	
+	},
+    {"reference":"/en/services?category=6",
+    "tag":"Rings",
+	"src": "https://weds360-production.s3.eu-west-1.amazonaws.com/store/category/3/icon/big-6c48cf9e3c363ce3cc315b6a1114eb7f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3XIBZMGBAF2YAFWK%2F20201023%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20201023T081433Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=f46cafa13b33fcc292d895225255ff1d6a90109bfb3a0270d7517f0c3cd7d15e"	
+	},
+    {"reference":"/en/services?category=7",
+    "tag":"Videographers",
+	"src": "https://weds360-production.s3.eu-west-1.amazonaws.com/store/category/6/icon/big-46211732c81c289c0197a414e7a85e92.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3XIBZMGBAF2YAFWK%2F20201023%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20201023T081433Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=35a7be7bd8e42ef2e42c850e316b24149f0ffd279823f54122ac49b70b875259"	
+	},
+    {"reference":"/en/services?category=8",
+     "tag":"Photographers",
+	"src": "https://weds360-production.s3.eu-west-1.amazonaws.com/store/category/2/icon/big-fe0ddae57072146294f233a81106c799.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3XIBZMGBAF2YAFWK%2F20201022%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20201022T223334Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=70f4812f3f625ece9b18aac189b8d5091694742bacd60a65a29f30f13f695235"		
+    },
+    {"reference":"/en/services?category=9",
+     "tag":"DJs",
+    "src": "https://weds360-production.s3.eu-west-1.amazonaws.com/store/category/9/icon/big-929185210fa05c949bb9bea9f53bd2fb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3XIBZMGBAF2YAFWK%2F20201023%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20201023T081433Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=96dba30b98786ba22147f408b018578265536920721755856997804679aa68b1"		
+    },
+    {"reference":"/en/services?category=10",
+     "tag":"Wedding Planners",
+	"src": "https://weds360-production.s3.eu-west-1.amazonaws.com/store/category/9/icon/big-929185210fa05c949bb9bea9f53bd2fb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3XIBZMGBAF2YAFWK%2F20201026%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20201026T063404Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=9c627cc6804e46a6b5fdaf7aba908d744d893bc34d863a49f0369257ea2f63be"		
+    },
+	{"reference":"/en/services?category=11",
+     "tag":"Wedding Cakes",
+	"src": "https://weds360-production.s3.eu-west-1.amazonaws.com/store/category/11/icon/big-2c27b32906aaa6a9a5b9bc5b2c832a49.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3XIBZMGBAF2YAFWK%2F20201026%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20201026T063404Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=78e3c96dc676fb8079d609805a8bc65e5b52dd2d0eb2997a0aa32ff67ed0e4e3"		
+    },
+	{"reference":"/en/services?category=12",
+     "tag":"Makeup Artists",
+	"src": "https://weds360-production.s3.eu-west-1.amazonaws.com/store/category/12/icon/big-40ba1ae4f7bf936ae6a0a9ecf82a8985.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3XIBZMGBAF2YAFWK%2F20201026%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20201026T063404Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=cba50e994221bb56d9e98f7cfe5ddca7e59b63a3f19ca3991e98a3a5714fc3a4"		
+    },
+	{"reference":"/en/services?category=13",
+     "tag":"Candy Stations",
+	"src": "https://weds360-production.s3.eu-west-1.amazonaws.com/store/category/15/icon/big-cd860aa40b8bee4d9696eb3a023f6b38.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3XIBZMGBAF2YAFWK%2F20201026%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20201026T063404Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=77ff7c63a20c4bb5300ca358925716629505d9e6bb3b9952d7320bf8826f7c48"		
+    },
+	{"reference":"/en/services?category=14",
+     "tag":"Entertainment",
+	"src": "https://weds360-production.s3.eu-west-1.amazonaws.com/store/category/16/icon/big-7f903938d7959e0bb4595c6857268c0f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3XIBZMGBAF2YAFWK%2F20201026%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20201026T063404Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=a31af0432bf668d0aec3426156ac9dbe79ab026d6745c6f89d94a9095d2398fd"		
+    },
+	{"reference":"/en/services?category=15",
+     "tag":"Caterers",
+	"src": "https://weds360-production.s3.eu-west-1.amazonaws.com/store/category/19/icon/big-307a3a6aa29a0a61e24551238dffb4ca.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3XIBZMGBAF2YAFWK%2F20201026%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20201026T063404Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=5deaa1a8f08cf26713a3e8b45f2afc231a6aa364adda7b3d49130357b9f68a37"		
+    },
+	{"reference":"/en/services?category=16",
+     "tag":"Beauty",
+	"src": "https://weds360-production.s3.eu-west-1.amazonaws.com/store/category/20/icon/big-23e05d7b9a58fb216699e29f7991266c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3XIBZMGBAF2YAFWK%2F20201026%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20201026T063404Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=00e7d7b039dbcc85ae9da16bfd1bbaed5045f501cbda37970936621c20cdbb66"		
+    },
+	{"reference":"/en/services?category=17",
+     "tag":"Invitation And Paper Goods",
+	"src": "https://weds360-production.s3.eu-west-1.amazonaws.com/store/category/21/icon/big-745e99f74e204b9f23e4cc2ff0bbc76f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3XIBZMGBAF2YAFWK%2F20201026%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20201026T063404Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=53932ece13e71103ed8e0073520f4e9dfc1d3f072c827c2f131ecc0cb63140b3"		
+    },
+	{"reference":"/en/services?category=18",
+     "tag":"Spas",
+	"src": "https://weds360-production.s3.eu-west-1.amazonaws.com/store/category/22/icon/big-c4c3b529fe800bd64cbe3320b838431c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3XIBZMGBAF2YAFWK%2F20201026%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20201026T063404Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=97a70446ad48f368cb8c4ff625cada4a68e74dc32af5463671d01f2f10ac4f6c"		
+    },
+	{"reference":"/en/services?category=19",
+     "tag":"Hairdressers",
+	"src": "https://weds360-production.s3.eu-west-1.amazonaws.com/store/category/23/icon/big-2acd6e4c82b391ee7d1761f31d3ebc2e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3XIBZMGBAF2YAFWK%2F20201026%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20201026T063404Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=fee7a1e0d872e13e120e7df151aee2b943a04a495316f4ec73c86d83b2c1ae5d"		
+    },
+	{"reference":"/en/services?category=20",
+     "tag":"Florists",
+	"src": "https://weds360-production.s3.eu-west-1.amazonaws.com/store/category/24/icon/big-ec91c80f711fde36c6aca0312984813f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3XIBZMGBAF2YAFWK%2F20201026%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20201026T063404Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=640f201ebd4b64a50b7dc8bc385324a59f2b29319ec0a82ba3ee318cdbbee065"		
+    }
+	
+]
+}                      
+                       

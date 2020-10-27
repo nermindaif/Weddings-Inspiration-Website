@@ -1,0 +1,53 @@
+{
+  "name": "webops",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-brands-svg-icons": "^5.15.1",
+    "@fortawesome/free-regular-svg-icons": "^5.15.1",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.11",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.20.0",
+    "fs": "0.0.1-security",
+    "json-server": "^0.16.2",
+    "jsonfile": "^6.0.1",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-media-hook": "^0.4.7",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.4",
+    "react-slick": "^0.27.12",
+    "react-slideshow-image": "^3.3.0",
+    "react-spring": "^8.0.27",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.2.0",
+    "styled-icons": "^7.15.1",
+    "write-json-file": "^4.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "dev-server": "json-server -p 8080 jsonFile.json"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
